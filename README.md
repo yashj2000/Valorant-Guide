@@ -3,9 +3,9 @@ Gives inforamtion of about Valorant, a FPS game developed by Riot Games, using V
 
 ### Run the App
 
-<b>1 )</b> Download your project from this link `https://github.com/Rapter1990/ValorantApiReactProject`
+<b>1 )</b> Download your project from this link `https://github.com/yashj2000/Valorant-Guide.git`
 
-<b>2 )</b> Go to the project's home directory :  `cd ValorantApiReactProject`
+<b>2 )</b> Go to the project's home directory.
 
 <b>3 )</b> Install all libraries used in the project through this command `npm install`
 
